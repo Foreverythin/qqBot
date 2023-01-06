@@ -1,1 +1,6 @@
-nonebot==1.9.1
+# plugins
+nonebot_plugin_apscheduler
+nonebot_plugin_learning_chat
+nonebot_plugin_emojimix
+nonebot_plugin_no_repeat
+nonebot_plugin_alipayvoice
