@@ -1,0 +1,24 @@
+{
+    "652445535": {
+        "1510397456": {
+            "user_id": "1510397456",
+            "group_id": "652445535",
+            "nickname": "小毛毛",
+            "gold": 180,
+            "make_gold": 180,
+            "lose_gold": 0,
+            "win_count": 0,
+            "lose_count": 0,
+            "is_sign": true,
+            "revolution": null,
+            "security": 0,
+            "Achieve_revolution": 0,
+            "Achieve_victory": 0,
+            "Achieve_lose": 0,
+            "stock": {
+                "value": 0.0
+            },
+            "props": {}
+        }
+    }
+}

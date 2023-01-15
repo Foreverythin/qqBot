@@ -20,7 +20,10 @@ app = nonebot.get_asgi()
 driver = nonebot.get_driver()
 driver.register_adapter(ONEBOT_V11Adapter)
 
-nonebot.load_builtin_plugins("echo", "emoji", "alipayvoice", "no-repeat", "learning-chat")
+nonebot.load_builtin_plugins("echo", "emojimix", "alipayvoice", "no-repeat", "learning-chat", "withdraw", "repeater")
+nonebot.load_plugin("nonebot_plugin_word_bank2")
+nonebot.load_plugin('nonebot_plugin_weather_lite')
+nonebot.load_plugin('nonebot_plugin_game_collection')
 
 
 # Please DO NOT modify this file unless you know what you are doing!

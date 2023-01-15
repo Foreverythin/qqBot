@@ -4,3 +4,8 @@ nonebot_plugin_learning_chat
 nonebot_plugin_emojimix
 nonebot_plugin_no_repeat
 nonebot_plugin_alipayvoice
+nonebot_plugin_withdraw
+nonebot_plugin_repeater
+nonebot_plugin_word_bank2
+nonebot_plugin_weather_lite
+nonebot_plugin_game_collection
